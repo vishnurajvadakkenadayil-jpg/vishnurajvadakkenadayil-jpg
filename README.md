@@ -14,7 +14,6 @@
 <br/>
 
 <h2 align="center"><i>◉ Technologies</i></h2>
-<hr/>
 
 <div align="center">
 
@@ -39,18 +38,16 @@
 <br/>
 
 <h2 align="center"><i>◉ Statistics</i></h2>
-<hr/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnurajvadakkenadayil-jpg&bg_color=0b1220&color=9dc0e8&line=4a7aa8&point=ffffff&area=true&area_color=1e3a6e&title_color=cfe0f5&hide_border=false&border_color=1e3a6e" alt="Contribution graph" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=vishnurajvadakkenadayil-jpg&theme=dark&background=0B1220&ring=4A7AA8&fire=9DC0E8&currStreakLabel=CFE0F5&currStreakNum=CFE0F5&sideLabels=9DC0E8&sideNums=CFE0F5&dates=7FA8D6&stroke=1E3A6E&border=1E3A6E&hide_border=false" alt="GitHub streak" width="95%"/>
 
 </div>
 
 <br/>
 
 <h2 align="center"><i>◉ About Me</i></h2>
-<hr/>
 
 <table align="center">
 <tr>
@@ -71,7 +68,6 @@ Right now I'm building a **binaural beats app** in Kotlin and **Maxi**, my perso
 <br/>
 
 <h2 align="center"><i>◉ Featured Projects</i></h2>
-<hr/>
 
 <div align="center">
 
@@ -89,7 +85,6 @@ Right now I'm building a **binaural beats app** in Kotlin and **Maxi**, my perso
 <br/>
 
 <h2 align="center"><i>◉ Hobbies & Goals</i></h2>
-<hr/>
 
 <div align="center">
 
