@@ -52,8 +52,7 @@
 <table align="center">
 <tr>
 <td width="35%" align="center">
-  <!-- Swap this for your cartoon avatar once it's ready -->
-  <img src="https://avatars.githubusercontent.com/u/229927050?v=4" alt="Vishnuraj" width="220"/>
+    <img src="avatar.png" alt="Vishnuraj" width="220"/>
 </td>
 <td align="center">
 
@@ -83,16 +82,5 @@ Right now I'm building a **binaural beats app** in Kotlin and **Maxi**, my perso
 </div>
 
 <br/>
-
-<h2 align="center"><i>◉ Hobbies & Goals</i></h2>
-
-<div align="center">
-
-CS student at CUSAT, Kerala.<br/>
-*"Long way to go."*
-
-**🎯 Goal: publish a research paper on agentic AI**
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f4a,50:2f5d8f,100:9dc0e8&height=100&section=footer" alt="footer" width="100%"/>
